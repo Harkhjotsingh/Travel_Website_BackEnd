@@ -178,6 +178,3 @@ insert into Fare values(
 )
 end
 ------------------------------------
-select * from BusDestination
-select * from Destination
-select * from Fare
